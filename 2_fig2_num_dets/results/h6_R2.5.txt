@@ -1,0 +1,6 @@
+# Number of determinants for CISD, compression, and selection
+# from top to bottom sto3g, 631g, ccpvdz
+# CISD      compression    m_tol=1e-6    e_tol=1e-7
+118         65             39              0
+1000        133            116             19           
+8830        349            313             79 
