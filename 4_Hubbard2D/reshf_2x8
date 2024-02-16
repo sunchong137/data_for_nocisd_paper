@@ -1,9 +1,0 @@
-# ResHF results
-# Energy per site for Hubbard Model with Nx = 2, Ny = 8 
-# PBC 
-# rows: number of determinants, columns: U value
-0              2
-2        -0.9633833781084951  
-4        -0.636940171678795 
-8        -0.3587334689135565
-12       -0.1296958598524015
